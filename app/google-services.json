@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245926064570",
+    "project_id": "muvit-71905",
+    "storage_bucket": "muvit-71905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245926064570:android:8f1fdcab28191d623c2d83",
+        "android_client_info": {
+          "package_name": "com.ikerortega.muvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245926064570-ujmmlmpifvfo0pmke05fo9ccuh318akr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ikerortega.muvit",
+            "certificate_hash": "bb83c7bccee147919a6607dcbdd25ecc4dd85616"
+          }
+        },
+        {
+          "client_id": "245926064570-r5hm8smq420ksij3o1uaobhovmepgjk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBad1hCitT5f7e6JA4EWjiUJ7WXMdvR1l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245926064570-r5hm8smq420ksij3o1uaobhovmepgjk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
